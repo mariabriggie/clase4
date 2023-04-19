@@ -1,2 +1,4 @@
 // este es el cuerpo principal de mi aplicacion
 el main de mi aplicacion
+
+instrucciones agregadas directamente en el repositorio remoto
